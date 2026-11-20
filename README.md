@@ -25,6 +25,7 @@ Tema 1/
 Tema 2/
 ├── Actividad 2.1  Mapa mental
 ├── Actividad 2.2  Reporte de práctica
+├── Actividad 2.3  Banco de ejercicios
 ├── Formatos/      Formatos de calidad F-U2-01 a F-U2-05
 └── Evidencias/    Capturas de las pruebas de calidad E01 a E05
 ```
@@ -41,8 +42,9 @@ Tema 2/
 
 | Actividad | Descripción |
 |---|---|
-| [2.1 Mapa mental](Tema%202/Actividad%202.1%20Mapa_Mental_AmauryGordillo_GPS_7ISCM.docx) | Mapa mental de la gestión de la calidad del software. |
-| [2.2 Reporte de práctica](Tema%202/Actividad%202.2%20Reporte%20de%20pr%C3%A1ctica_AmauryGordillo_GPS_7ISCM_ACTUALIZADO.pptx) | Reporte de la revisión de calidad de Joinfy: análisis estático, pruebas automáticas, comprobación de tipos y compilación. |
+| [2.1 Mapa mental](Tema%202/Actividad%202.1%20MapaMental_AmauryGordillo_GPS_7ISCM.docx) | Mapa mental de la gestión de la calidad del software. |
+| [2.2 Reporte de práctica](Tema%202/Actividad%202.2%20ReporteDePr%C3%A1ctica_AmauryGordillo_GPS_7ISCM.pptx) | Reporte de la revisión de calidad de Joinfy: análisis estático, pruebas automáticas, comprobación de tipos y compilación. |
+| [2.3 Banco de ejercicios](Tema%202/Actividad%202.3%20BancoDeEjercicios_AmauryGordillo_GPS_7ISCM.pptx) | Banco de ejercicios del tema de gestión de la calidad. |
 
 **Formatos** ([carpeta](Tema%202/Formatos)): Plan de calidad, Matriz de métricas, Registro de pruebas, Control de cambios y Lista de verificación.
 
